@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -march=native -mavx2 -Wl,--dependency-file=CMakeFiles/simd_detect_shared.dir/link.d -shared -Wl,-soname,libsimd_detect_shared.so -o libsimd_detect_shared.so CMakeFiles/simd_detect_shared.dir/simd_detect.cpp.o

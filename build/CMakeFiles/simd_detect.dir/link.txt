@@ -1,0 +1,1 @@
+/usr/bin/c++  -march=native -mavx2 -Wl,--dependency-file=CMakeFiles/simd_detect.dir/link.d CMakeFiles/simd_detect.dir/simd_detect.cpp.o -o simd_detect

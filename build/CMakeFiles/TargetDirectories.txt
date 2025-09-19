@@ -1,0 +1,4 @@
+/home/ekyriakos/simd_detect/build/CMakeFiles/simd_detect.dir
+/home/ekyriakos/simd_detect/build/CMakeFiles/simd_detect_shared.dir
+/home/ekyriakos/simd_detect/build/CMakeFiles/edit_cache.dir
+/home/ekyriakos/simd_detect/build/CMakeFiles/rebuild_cache.dir

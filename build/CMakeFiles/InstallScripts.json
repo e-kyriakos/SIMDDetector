@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/ekyriakos/simd_detect/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
